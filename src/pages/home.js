@@ -7,7 +7,7 @@ function Home() {
   return (
     <>
       <Test />
-      <h2>{t("Welcome to React")}</h2>
+      <h2>{t("title")}</h2>
     </>
   );
 }
