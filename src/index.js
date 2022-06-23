@@ -13,6 +13,8 @@ if (rootElement.hasChildNodes()) {
   render(<App />, rootElement);
 }
 
+// ReactDOMServer.renderToStaticMarkup(element)
+
 // const root = ReactDOM.createRoot(document.getElementById('root'));
 // root.render(
 //   <React.StrictMode>
